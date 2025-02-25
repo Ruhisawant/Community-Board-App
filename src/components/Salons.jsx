@@ -82,10 +82,10 @@ const Salons = () => {
       <div className="cards-container">
         {salonData.map((salon, index) => (
           <div className="card" key={index}>
-            <img className='card-img' src={salon.img} alt={salon.title} />
+            <img className='card-img' src={salon.img} alt={`Image of ${salon.title}`} />
             <div className="card-title">{salon.title}</div>
             <div className="card-subtitle">{salon.subtitle}</div>
-            <a className="card-button" href={salon.link}>
+            <a className="card-button" href={salon.link} target="_blank" rel="noopener noreferrer">
               View Services
             </a>
           </div>
