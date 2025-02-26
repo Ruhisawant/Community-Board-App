@@ -28,7 +28,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='..assets/CommunityBoard.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with ... [Kap](https://getkap.co/) for macOS
+GIF created with ... [Adobe Express](https://www.adobe.com/express/feature/video/convert/mov-to-gif)
 
 ## Notes
 
